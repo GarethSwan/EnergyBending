@@ -1,0 +1,5 @@
+name: ProjectKorraEnergyBending
+main: com.Swan.Korra.EnergyBending.Main
+author: Gareth Swan
+version: 1.0
+depend: [ProjectKorra]
