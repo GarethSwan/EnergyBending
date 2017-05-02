@@ -16,11 +16,11 @@ public abstract class EnergyAbility extends ElementalAbility{
 	public Element getElement() {
 		return Main.Energy;
 	}
-	
+	//From this point onwards
 	public ChatColor getColor() {
 		return ChatColor.AQUA;
 	}
-	
+	//to here, Eclipse is disagreeing with putting this, and so I'm wondering if this is the issue
 	
 
 }
